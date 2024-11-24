@@ -23,6 +23,7 @@ Are you having DNS problems? These lists contain the same trackers but with IP a
 * trackers_all_ip (99 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
 
 ### Notes
+## By Mudassir Alam
 * A bot automatically checks the trackers and updates the lists.
 * Trackers with the same domain or pointing to the same IP address are removed. Check out the [blacklist](blacklist.txt).
 * Trackers are sorted by popularity and latency (from best to worst).
